@@ -18,7 +18,7 @@ class Solution {
             f1 = f2
             f2 = f3
         }
-        return Int(f2)
+        return f2
     }
 }
 
